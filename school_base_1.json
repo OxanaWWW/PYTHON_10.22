@@ -1,0 +1,44 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Anna",
+        "surname": "ivanova",
+        "grades journal": "A",
+        "class": "2C"
+    },
+    "2": {
+        "id": "2",
+        "name": "Alla ",
+        "surname": "Smirnova",
+        "grades journal": "B",
+        "class": "2C"
+    },
+    "3": {
+        "id": "3",
+        "name": "Ivan",
+        "surname": "Glagolev",
+        "grades journal": "A",
+        "class": "1A"
+    },
+    "4": {
+        "id": "4",
+        "name": "Andrei",
+        "surname": "Kalina",
+        "grades journal": "A",
+        "class": "1A"
+    },
+    "5": {
+        "id": "5",
+        "name": "Vladimir",
+        "surname": "Dudin",
+        "grades journal": "B",
+        "class": "3B"
+    },
+    "6": {
+        "id": "6",
+        "name": "Dmitry",
+        "surname": "Sosin",
+        "grades journal": "A",
+        "class": "2B"
+    }
+}
